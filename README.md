@@ -1,5 +1,9 @@
 # excape_ml
 
-this repo contains the ExCAPE-ML dataset.
+This repo contains the ExCAPE-ML dataset.
 
-![alt text](docs/nested_cv_workflow.tif)
+
+contacts: 
+Noe Sturm: noesturm@gmail.com
+Hongming Chen: Hongming.Chen71@gmail.com
+
