@@ -8,7 +8,7 @@ http://excape-h2020.eu/ <br>
 This research has recevied funding from European Union's Horizon 2020 framework under Grand Agreement no. 671555. 
 
 
-contacts: 
+For more information contact:<br>
 Noe Sturm: noesturm@gmail.com<br>
 Hongming Chen: Hongming.Chen71@gmail.com
 
